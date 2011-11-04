@@ -46,6 +46,7 @@ contains rtklage, a class to make lawsuits.
 %doc %{_texmfdistdir}/doc/latex/rtklage/README
 %doc %{_texmfdistdir}/doc/latex/rtklage/bspklage.tex
 %doc %{_texmfdistdir}/doc/latex/rtklage/rtklage.pdf
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -56,3 +57,5 @@ contains rtklage, a class to make lawsuits.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
