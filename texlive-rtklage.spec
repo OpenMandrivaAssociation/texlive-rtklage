@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-rtklage
 Version:	20060207
-Release:	1
+Release:	2
 Summary:	A package for German lawyers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rtklage
