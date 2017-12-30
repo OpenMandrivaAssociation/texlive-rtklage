@@ -5,7 +5,7 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-rtklage
-Version:	0.1
+Version:	20170414
 Release:	1
 Summary:	A package for German lawyers
 Group:		Publishing
