@@ -1,6 +1,6 @@
 Name:		texlive-rtklage
 Version:	15878
-Release:	1
+Release:	2
 Summary:	A package for German lawyers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rtklage
