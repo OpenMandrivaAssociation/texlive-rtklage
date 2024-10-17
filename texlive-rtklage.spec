@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A package for German lawyers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rtklage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rtklage
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rtklage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rtklage.doc.r%{version}.tar.xz
